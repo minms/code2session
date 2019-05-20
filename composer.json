@@ -1,0 +1,13 @@
+{
+    "name": "minms/code2session",
+    "description": "",
+    "keywords": [
+    ],
+    "type": "library",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": {"Minms\\Code2Session\\": "./src"}
+    }
+}
